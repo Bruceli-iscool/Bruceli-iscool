@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruceli-iscool
 - 👀 I’m interested in language creation and app development
-- 🌱 I’m currently learning HTML, Javascript, Css
+- 🌱 I’m currently learning Javascript and Css
 - 💞️ I’m looking to collaborate on a rts game
 - 📫 How to reach me isanoob1897@outlook.com or isanoob.offcialmail@gmail.com
 
